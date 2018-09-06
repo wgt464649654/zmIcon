@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>fuzhi_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11,2.96525204 L10,2.96525204 L10,2 C10,1.44771525 9.55228475,1 9,1 L2,1 C1.44771525,1 1,1.44771525 1,2 L1,9 C1,9.55228475 1.44771525,10 2,10 L2.98924073,10 L2.98924073,11 L2,11 C0.8954305,11 0,10.1045695 0,9 L0,2 C0,0.8954305 0.8954305,0 2,0 L9,0 C10.1045695,0 11,0.8954305 11,2 L11,2.96525204 Z M6,5 C5.44771525,5 5,5.44771525 5,6 L5,14 C5,14.5522847 5.44771525,15 6,15 L14,15 C14.5522847,15 15,14.5522847 15,14 L15,6 C15,5.44771525 14.5522847,5 14,5 L6,5 Z M6,4 L14,4 C15.1045695,4 16,4.8954305 16,6 L16,14 C16,15.1045695 15.1045695,16 14,16 L6,16 C4.8954305,16 4,15.1045695 4,14 L4,6 C4,4.8954305 4.8954305,4 6,4 Z" id="Combined-Shape" fill="#666666" fill-rule="nonzero"></path>
+    </g>
+</svg>

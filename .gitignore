@@ -1,0 +1,7 @@
+# Don't check auto-generated stuff into git
+dist
+node_modules
+.cache
+index.html
+.idea
+yarn-error.log
