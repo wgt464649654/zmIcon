@@ -2,7 +2,7 @@
 
 ```javascript
     "dependencies": {
-        "ZmIcon": "1.0.0"
+        "zmIcon": "1.0.0"
     }
 ```
 ```javascript
